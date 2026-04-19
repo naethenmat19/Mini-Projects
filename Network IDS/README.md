@@ -90,7 +90,7 @@ Example:
 
 ## 👨‍💻 Author
 
-Naethen Mathew
+Naethen Mathew Anil
 
 ---
 
