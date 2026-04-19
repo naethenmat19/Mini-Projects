@@ -60,10 +60,9 @@ nmap -p- 127.0.0.1
 
 ## 📸 Screenshots
 
-> Add screenshots of your GUI here
+![alt text](image.png)
 
 Example:
-
 * Live packet monitoring
 * Alert detection
 * Clean dashboard UI
@@ -91,7 +90,7 @@ Example:
 
 ## 👨‍💻 Author
 
-Your Name
+Naethen Mathew
 
 ---
 
