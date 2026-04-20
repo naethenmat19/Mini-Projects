@@ -1,18 +1,3 @@
-'''import datetime
-from config import LOG_FILE
-
-def log_alert(message):
-    timestamp = datetime.datetime.now()
-    log_message = f"[{timestamp}] {message}"
-
-    print("\n" + "-" * 100)
-    print(log_message)
-    print("-" * 100 + "\n")
-
-    with open(LOG_FILE, "a") as f:
-        f.write(log_message + "\n")'''
-
-
 import datetime
 from config import LOG_FILE
 
