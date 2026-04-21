@@ -1,0 +1,12 @@
+# Ignore the codebase mapping file generated
+codebase_mapping.md
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+nmap_localhost_fast.txt
